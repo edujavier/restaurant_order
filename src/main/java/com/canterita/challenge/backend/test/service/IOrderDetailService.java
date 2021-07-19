@@ -1,6 +1,5 @@
 package com.canterita.challenge.backend.test.service;
 
-import com.canterita.challenge.backend.test.dto.OrderDetailDto;
 import com.canterita.challenge.backend.test.exception.OrderNotFoundException;
 
 public interface IOrderDetailService {
